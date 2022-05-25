@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Bulkemail-Frontend/static/css/main.b8daeadf.css",
-    "main.js": "/Bulkemail-Frontend/static/js/main.59ea6553.js",
+    "main.js": "/Bulkemail-Frontend/static/js/main.80c2e90f.js",
     "index.html": "/Bulkemail-Frontend/index.html",
     "main.b8daeadf.css.map": "/Bulkemail-Frontend/static/css/main.b8daeadf.css.map",
-    "main.59ea6553.js.map": "/Bulkemail-Frontend/static/js/main.59ea6553.js.map"
+    "main.80c2e90f.js.map": "/Bulkemail-Frontend/static/js/main.80c2e90f.js.map"
   },
   "entrypoints": [
     "static/css/main.b8daeadf.css",
-    "static/js/main.59ea6553.js"
+    "static/js/main.80c2e90f.js"
   ]
 }
