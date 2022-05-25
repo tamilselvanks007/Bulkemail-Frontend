@@ -1,0 +1,14 @@
+.app__body {
+    display: grid;
+    grid-template-columns: 250px auto 50px;
+}
+
+.App {
+    font-Family: 'Roboto', sans-serif;
+    background-image: url('https://images.pexels.com/photos/940271/pexels-photo-940271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: -8px;
+}
